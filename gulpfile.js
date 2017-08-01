@@ -49,8 +49,7 @@ gulp.task('serve', function() {
     server: { // Настройки сервера
       baseDir: paths.dir.app, // Базовая директория
       index: 'email.html' // Индексный файл
-    },
-    browser: 'firefox' // Назначение браузера
+    }
   });
   gulp.watch([paths.watch.html, paths.watch.css], gulp.series('build')); // Отслеживание изменений Pug и Sass-файлов
   gulp.watch('*.html').on('change', reload); // Обновление браузера в случае изменения индексного файла email.html в development-папке app
