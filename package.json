@@ -1,13 +1,21 @@
 {
-  "name": "email",
+  "name": "email-gulp",
+  "description": "Template for e-mail development with Gulp",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Mikorn",
+  "homepage": "https://webmikorn.ru",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mikorn/email-gulp.git"
+  },
+  "engines": {
+    "node": ">=4"
+  },
   "devDependencies": {
     "browser-sync": "^2.18.7",
     "del": "^2.2.2",
