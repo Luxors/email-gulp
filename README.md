@@ -18,7 +18,7 @@
 <pre>cd my-email-gulp</pre>
 <p>And to set npm-dependencies:</p>
 <pre>npm install</pre>
-<p>Или:</p>
+<p>Or:</p>
 <pre>npm i</pre>
 <p>The template is ready for development of your e-mail project.</p>
 <h2>Development of e-mail with template</h2>
