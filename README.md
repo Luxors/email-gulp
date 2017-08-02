@@ -6,7 +6,7 @@
 <p>Detailed description in <a href="https://webmikorn.ru/articles/verstka-elektronnogo-pisma-s-pomoshhyu-gulp/">article</a> (russian language).</p>
 <h2>Requirements</h2>
 <ol>
-  <li>Node.js 4+.</li>
+  <li>Node.js.</li>
   <li>Node.js Packet Manager (NPM).</li>
   <li>Gulp.</li>
   <li>Git Bash &mdash; for Windows users.</li>
