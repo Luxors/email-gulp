@@ -9,6 +9,7 @@
   <li>Node.js.</li>
   <li>Node.js Packet Manager (NPM).</li>
   <li>Gulp.</li>
+  <li>Git.</li>
   <li>Git Bash &mdash; для пользователей Windows.</li>
 </ol>
 <h2>Использование</h2>
