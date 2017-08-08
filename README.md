@@ -1,3 +1,4 @@
+<p>Русская версия находится в файле README.ru.md.</p>
 <h1>Development of e-mail with Gulp</h1>
 <h2>Description</h2>
 <p>In this repository there is a template for development of e-mail.</p>
